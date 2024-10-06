@@ -19,7 +19,7 @@ function Home() {
         <Link to="/">
           <button>MiniGames</button>
         </Link>
-        <Link to="/">
+        <Link to="/quiz">
           <button>Quiz</button>
         </Link>
       </div>

@@ -151,3 +151,68 @@ section img:hover {
 .simulator p {
   color: #f9f871; /* Lemon Yellow for text */
 }
+
+/*Quiz*/
+
+.quiz {
+  background-color: #333333; /* Background similar to the rest of the app */
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  color: #f9f871; /* Lemon Yellow for text */
+}
+
+.question-section {
+  margin: 20px 0;
+}
+
+.options button {
+  background-color: #a46877; /* Muted Rose for buttons */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  font-size: 1rem;
+}
+
+.options button:hover {
+  background-color: #e08976; /* Soft Coral on hover */
+}
+
+.options button.selected {
+  background-color: #ffba6a; /* Sunset Yellow for selected answer */
+}
+
+.explanation {
+  margin-top: 15px;
+  color: #ffba6a; /* Sunset Yellow for explanation text */
+}
+
+.result {
+  background-color: #634f5f; /* Plum Purple for result section */
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.result h2 {
+  color: #ffba6a;
+}
+
+.result button {
+  background-color: #a46877;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.result button:hover {
+  background-color: #e08976;
+}
+
