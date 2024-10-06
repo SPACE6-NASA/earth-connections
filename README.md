@@ -1,7 +1,7 @@
 
 # Earth Connections MVP
 
-Earth Connections is an educational and interactive web app that explores the interconnections between wildfires, deforestation, and polar ice melting, based on data from NASA’s Earth observing satellites. The platform demonstrates how changes in one system (such as CO2 levels from wildfires) can alter other Earth systems, providing users with an interactive way to learn about our planet’s climate and environmental changes.
+Earth Connections is an educational and interactive web app that explores the interconnections between wildfires, deforestation, and polar ice melting, based on data from NASA’s Earth-observing satellites. The platform demonstrates how changes in one system (such as CO2 levels from wildfires) can alter other Earth systems, providing users with an interactive way to learn about our planet’s climate and environmental changes.
 
 
 ## Table of Contents
@@ -10,7 +10,6 @@ Earth Connections is an educational and interactive web app that explores the in
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
  
