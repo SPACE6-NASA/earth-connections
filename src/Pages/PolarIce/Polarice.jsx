@@ -5,6 +5,7 @@ function PolarIce() {
   const polarIceInfo = {
     title: 'Polar Ice Melting',
     description: 'See how melting polar ice impacts sea levels and global climate patterns.',
+    imageUrl: 'https://assets.science.nasa.gov/content/dam/science/esd/eo/woc/images/sea_ice/arctic_nsidc_1991.png'
   };
 
   return (
@@ -12,6 +13,7 @@ function PolarIce() {
       <Section
         title={polarIceInfo.title}
         description={polarIceInfo.description}
+        imageUrl={polarIceInfo.imageUrl}
       />
       <div style={{ width: '100%', height: '600px' }}>
         <iframe

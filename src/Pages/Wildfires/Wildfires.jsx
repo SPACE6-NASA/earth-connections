@@ -4,7 +4,7 @@ function Wildfires() {
   const wildfireInfo = {
     title: 'Wildfires & Air Quality',
     description: 'Explore how wildfires impact air quality and contribute to climate change.',
-    imageUrl: '/path/to/wildfire-image.jpg'
+    imageUrl: 'https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153300/linefirezm_oli_20240909.jpg'
   };
 
   return (

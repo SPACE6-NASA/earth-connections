@@ -4,7 +4,7 @@ function Deforestation() {
   const deforestationInfo = {
     title: 'Deforestation & Its Impact',
     description: 'Learn how deforestation affects ecosystems and contributes to global warming.',
-    imageUrl: '/path/to/deforestation-image.jpg'
+    imageUrl: 'https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152607/venezuelafires_tmo_20240326_th.jpg'
   };
 
   return (
