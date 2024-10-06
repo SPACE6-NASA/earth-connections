@@ -19,6 +19,7 @@ Earth Connections is an educational and interactive web app that explores the in
 - **CO2 Impact Simulator:** A simple slider that shows how CO2 levels impact global temperature and climate.
 - **NASA Data:** Imagery and information are based on NASA’s satellite data, offering real-world insights.
 - **Responsive Design:** Optimized for both desktop and mobile use.
+- **Quiz:** An engaging quiz that helps reinforce concepts about the interconnectedness of Earth's systems in a fun, accessible way for children and teenagers.
 
 
 
