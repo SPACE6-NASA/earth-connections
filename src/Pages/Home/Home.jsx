@@ -16,6 +16,12 @@ function Home() {
         <Link to="/polar-ice">
           <button>Explore Polar Ice</button>
         </Link>
+        <Link to="/">
+          <button>MiniGames</button>
+        </Link>
+        <Link to="/">
+          <button>Quiz</button>
+        </Link>
       </div>
     </div>
   );

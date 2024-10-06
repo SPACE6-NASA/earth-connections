@@ -5,18 +5,19 @@ body {
   color: #f9f871; /* Lemon Yellow for text */
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 h1, h2, h3 {
-  color: #ffba6a; /* Sunset Yellow for titles */
+  color: #6c80f0; /* Sunset Yellow for titles */
 }
 
 p {
-  color: #f9f871; /* Light text for general content */
+  color: #65df4c; /* Light text for general content */
 }
 
 a {
-  color: #a46877; /* Muted Rose for links */
+  color: #a46877;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -51,11 +52,13 @@ input[type="range"] {
 
 /* Header */
 header {
-  background-color: #634f5f; /* Plum Purple for header background */
+  background: url('https://oceancolor.gsfc.nasa.gov/gallery/feature/images/PACE_OCI_2024090620240906_PACE_validation_in_California_sm.png'); 
+  background-position: center;
   padding: 20px;
 }
 
 header ul {
+  background-color: rgba(0, 0, 0, 0.5);
   list-style-type: none;
   padding: 0;
   display: flex;
@@ -84,7 +87,7 @@ header a:hover {
 
 .sections button {
   margin: 15px;
-  background-color: #a46877; /* Muted Rose */
+  background-color: #40d4af; /* Muted Rose */
   color: white;
 }
 
@@ -94,11 +97,11 @@ header a:hover {
 
 /* Footer */
 footer {
-  background-color: #634f5f; /* Plum Purple */
+  background: url('https://oceancolor.gsfc.nasa.gov/gallery/feature/images/PACE_OCI_2024090620240906_PACE_validation_in_California_sm.png'); 
+  background-position: center;
   color: white;
   text-align: center;
   padding: 10px;
-  position: fixed;
   width: 100%;
   bottom: 0;
 }
