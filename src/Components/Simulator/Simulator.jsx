@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function Simulator() {
-  const [co2Level, setCo2Level] = useState(0);
+  const [co2Level, setCo2Level] = useState(50); // Default CO2 level
 
   const handleSliderChange = (e) => {
     setCo2Level(e.target.value);
